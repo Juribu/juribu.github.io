@@ -12,7 +12,7 @@ title: "Home"
 
 I’m a Statistics and Computer Science minor student at Cornell University, interested in building technology that bridges human and machine understanding. I enjoy working on data-driven systems, interactive AI, and iOS develeopment that foster meaningful connections and solves day to day problems with people.
 
-Outside of tech, I love archery, playing video games, staying active, and designing simple tools that make everyday life smoother.
+Outside of tech, I love archery, playing video games, cooking, and enjoying poker nights with my friends!
 
 I’d love to chat – send me an email at [jz2384@cornell.edu](mailto:jz2384@cornell.edu).
 

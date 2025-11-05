@@ -8,13 +8,13 @@ title: "Home"
 </center>
 <br>
 
-# Hi, my name is William 👋
+# Hi, my name is Jay 👋
 
 I am a backend software engineer at Ramp. I enjoy tackling problems in (operating/distributed) systems and (programming/natural) languages, and I have a particular fondness for interesting visualizations and clever math.
 
 Outside of technology, I keep up with competitive video games, make arrangements of my favorite songs, and dabble in recreational mathematics.
 
-I’d love to chat – send me an email at [wm274@cornell.edu](mailto:wm274@cornell.edu).
+I’d love to chat – send me an email at [jz2384@cornell.edu](mailto:jz2384@cornell.edu).
 
 ---
 

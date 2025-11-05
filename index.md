@@ -10,9 +10,9 @@ title: "Home"
 
 # Hi, my name is Jay 👋
 
-I am a backend software engineer at Ramp. I enjoy tackling problems in (operating/distributed) systems and (programming/natural) languages, and I have a particular fondness for interesting visualizations and clever math.
+I’m a Statistics and Computer Science minor student at Cornell University, interested in building technology that bridges human and machine understanding. I enjoy working on data-driven systems, interactive AI, and iOS develeopment that foster meaningful connections and solves day to day problems with people.
 
-Outside of technology, I keep up with competitive video games, make arrangements of my favorite songs, and dabble in recreational mathematics.
+Outside of tech, I love archery, playing video games, staying active, and designing simple tools that make everyday life smoother.
 
 I’d love to chat – send me an email at [jz2384@cornell.edu](mailto:jz2384@cornell.edu).
 
@@ -20,19 +20,13 @@ I’d love to chat – send me an email at [jz2384@cornell.edu](mailto:jz2384@co
 
 ### Experience
 
- * Senior Software Engineer @ Ramp
- * Software Engineer @ Juniper Networks
- * AR Research Intern @ Bosch Research
- * Systems / PL Research @ Cornell
- * NLP Research @ Cornell
- * iOS Developer / Pod Lead @ Cornell AppDev
- * Open-source Contributor @ Homebrew
+ * CS 1998 (iOS Development) course instructre @ Cornell CIS
+ * Software Engineer (iOS) @ Cornell App Development
+ * Robotics Research Assistant @ Cornell
+ * NLP Research @ Cal Poly Pomona
 
 ### Education
 
- * M.Eng Computer Science @ Cornell '22
- * B.S. Computer Science @ Cornell '21, Summa Cum Laude
- * Minor in Mathematics @ Cornell '21
- * Arlington High School '18
-
-__I'm an alum of the [Cornell University Glee Club](https://www.gleeclub.com).__
+ * B.S. Statistics @ Cornell '26
+ * Minor in Computer Science @ Cornell '26
+ * A.S. Mathematics and Computer Science @ Mt.SAC '24

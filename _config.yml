@@ -8,3 +8,7 @@ social:
     linkedin: "jaywprofile"
 
 google_analytics: G-685Z0KM8JW
+
+header_pages:
+  - index.md
+  - resume/resume.html
